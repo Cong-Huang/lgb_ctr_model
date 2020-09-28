@@ -1,1 +1,1 @@
-# lgb_model_template
+# lgb and ctr model template
